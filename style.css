@@ -2,14 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
-@media only screen and (max-device-width: 800px) {
-    body { width:600px; }
-}
-
-@media only screen and (max-device-width: 400px) {
-    body { width: 200px; }
-}
-
 @font-face {
     font-family: 'iDroid';
     src: url(pacote-projeto-10/fontes/idroid.otf) format('opentype');
